@@ -1,17 +1,11 @@
 
-<div align="center">
-
 # Hi, I'm Anantha 👋
 
 ### Product Designer × Product Builder
 
 Designing digital products. Building ideas into working experiences.
 
-**B2B SaaS • Design Systems • AI Products • UX Engineering**
-
-[Portfolio](https://portfolio.nadamel.com/) · [Behance](https://www.behance.net/nadamel)
-
-</div>
+**B2B SaaS | Design Systems | AI Products | UX Engineering**
 
 ---
 
@@ -28,6 +22,7 @@ I work across product strategy, UX, interface design, prototyping, and AI-assist
 - **MindTape**: Voice-first journaling with AI reflections.
 - **PingOS**: A personal networking and follow-up tracker.
 - **AlmostHired**: AI-assisted job application and tracking.
+- **SwiftOps**: Enterprise operations platform for project management, workflows, and ticketing.
 - **Xitester**: AI-powered software testing platform.
 
 ### 🛠 Design & Development
@@ -38,9 +33,10 @@ I work across product strategy, UX, interface design, prototyping, and AI-assist
 
 **AI Workflow:** Cursor, Claude Code, GitHub Copilot, MCP
 
-### 🔗 Explore My Work
+---
 
-🌐 [Portfolio](https://portfolio.nadamel.com/)
+### 💡 Currently Exploring
 
-🎨 [Behance](https://www.behance.net/nadamel)
-
+- Building AI-powered digital products.
+- Bridging product design and software development.
+- Experimenting with AI-assisted development workflows.
